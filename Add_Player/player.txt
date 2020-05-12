@@ -1,0 +1,1 @@
+{'team': 'Mavericks', 'first_name': 'Luka', 'last_name': 'Doncic', 'height_cm': '201', 'weight_cm': '104', 'points': '4000', 'rebounds': '6000', 'assists': '5000', 'triple_doubles': '19'}
